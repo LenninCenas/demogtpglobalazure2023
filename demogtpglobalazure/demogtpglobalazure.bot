@@ -1,0 +1,18 @@
+{
+    "name": "demogtpglobalazure",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "http://localhost:3978/api/messages",
+            "id": "19048530-f1d8-11ed-b29b-0730a62cb4ec",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "C:\\Users\\AT\\source\\repos\\demogtpglobalazure\\demogtpglobalazure\\demogtpglobalazure.bot",
+    "overrides": null
+}
